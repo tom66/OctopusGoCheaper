@@ -1,7 +1,8 @@
+# Edit this file then rename it to Settings.py
 # Do not publicly disclose these!
-APIKEY = 'sk_live_Z8PlNAqEU2mQi0deODCBxoDM'
-MPT = '2400000226176'
-METER = '20L3253341'
+APIKEY = 'sk_live_######'   # Get this from: https://octopus.energy/dashboard/developer/
+MPT = '2400000xxxxxx'       # Get this from your account page under 'Electricity'
+METER = '20Lxxxxxxx'        # 
 
 # Change this to point to the file that represents your Agile CSV data for your region
 # You can download these files here: https://www.energy-stats.uk/download-historical-pricing-data/ (not affiliated!)
